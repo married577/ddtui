@@ -10,4 +10,4 @@
 ### suite  测试用例集
 ### util 公共模块
 ### run.py  执行脚本。
-CD到requirements所在的文件夹，然后执行pip install -r requirement.txt
+CD到requirements所在的文件夹，然后执行pip install -r requirement.txt即可
